@@ -18,9 +18,7 @@ It is pretty simple, you have a board on the bottom with buttons on it, you can:
 * Make a random image using "R".
 
 ## Screenshots
-<p width="10%">
 ![icecream](/screenshots/icecream.jpg) ![cloud_9](/screenshots/cloud_9.jpg) ![test](/screenshots/test.jpg) ![random](/screenshots/random.jpg)
-</p>
 ## Requirements
 For now, the only requirement is pygame, although numpy will be needed in the future since it is crucial for some functionalities that will be added in the future.
 
